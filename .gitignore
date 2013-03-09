@@ -17,3 +17,6 @@
 # Ignore SVN files.
 .svn
 .svn/entries
+
+# Ignore Emacs backup files.
+*.~*~
